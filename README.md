@@ -31,3 +31,5 @@ git add
 git commit
 ```
 
+These basic formatting syntax were learned from [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
